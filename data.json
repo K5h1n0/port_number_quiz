@@ -1,0 +1,18 @@
+{
+    "question": [
+        ["FTP-data",20],
+        ["FTP(control)",21],
+        ["SSH", 22],
+        ["Telnet", 23],
+        ["SMTP", 25],
+        ["DNS", 53],
+        ["TFTP", 69],
+        ["HTTP", 80],
+        ["POP3", 110],
+        ["NTP", 123],
+        ["IMAP", 143],
+        ["HTTPS", 443],
+        ["RIP", 520],
+        ["submission", 587]
+    ]
+}
